@@ -85,7 +85,7 @@ sentry-sdk
 six
 smmap
 streamlit-nightly
-st-annotated-text
+streamlit-annotated-text
 streamlit-card
 streamlit-player
 sympy
