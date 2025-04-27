@@ -85,7 +85,6 @@ sentry-sdk
 six
 smmap
 streamlit-nightly
-streamlit-annotated-text
 streamlit-card
 streamlit-player
 sympy
@@ -129,3 +128,4 @@ seaborn
 matplotlib
 
 scikit-learn == 1.3.1
+streamlit-annotated-text
