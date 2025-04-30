@@ -32,7 +32,7 @@ from PIL import Image
 import os
 
 logo = "./replant/tablogo.png"
-st.set_page_config(page_title="Yolodetector", page_icon=logo, layout="centered", initial_sidebar_state="expanded")
+st.set_page_config(page_title="PlantX", page_icon=logo, layout="centered", initial_sidebar_state="expanded")
 
 
 COLORS = [(56, 56, 255), (151, 157, 255), (31, 112, 255), (29, 178, 255), (49, 210, 207), (10, 249, 72), (23, 204, 146),
@@ -492,7 +492,7 @@ def imageInput(device):
 def main(): 
     #background image
        
-        st.markdown("<h1 style='text-align: left; color: white; text-shadow: 5px 5px 5px green; font-size: 60px; font-family: 'Trebuchet MS', sans-serif;'>Deep Learning-Based Smart Diagnosis and Treatment Recommendation for Plant Disease Detection</h1>", unsafe_allow_html=True)
+        st.markdown("<h1 style='text-align: left; color: lightgreen; text-shadow: 5px 5px 5px green; font-size: 60px; font-family: 'Trebuchet MS', sans-serif;'>🍁🌿Deep Learning-Based Smart Diagnosis and Treatment Recommendation for Plant Disease🌿🍁</h1>", unsafe_allow_html=True)
 
         st.text("")
         st.text("")
@@ -636,4 +636,3 @@ def main():
 #start
 if __name__ == '__main__':
     main()
-
