@@ -1,4 +1,4 @@
-ultralytics==8.3.121
+ultralytics==8.3.9
 #ultralytics for yolov8
 streamlit
 notebook
