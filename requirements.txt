@@ -1,4 +1,4 @@
-ultralytics
+ultralytics==8.3.121
 #ultralytics for yolov8
 streamlit
 notebook
@@ -101,7 +101,6 @@ triton
 typing-extensions
 tzdata
 tzlocal
-ultralytics
 urllib3
 validators
 watchdog
